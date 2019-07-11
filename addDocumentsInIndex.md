@@ -1,4 +1,4 @@
-## For creating new document with random id
+## For Creating Document with random ID
 ```
 POST /product/default
 {
@@ -9,7 +9,7 @@ POST /product/default
   }
 }
 ```
-## For creating new document with custom id  
+## For Creating Document with Custom ID  
 ```
 PUT /product/default/1
 {
