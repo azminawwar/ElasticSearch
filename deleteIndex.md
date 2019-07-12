@@ -1,0 +1,5 @@
+# Deleting Index
+
+```
+ DELETE /product
+```

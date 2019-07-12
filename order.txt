@@ -3,3 +3,6 @@ addDocumentsInIndex
 retriveDocuments
 updatingDocument
 upsertDocument
+deletingDocument
+deletingIndex
+batchProcessing
