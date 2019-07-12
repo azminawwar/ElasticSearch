@@ -2,3 +2,4 @@ createIndex
 addDocumentsInIndex
 retriveDocuments
 updatingDocument
+upsertDocument
