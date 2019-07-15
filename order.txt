@@ -6,3 +6,5 @@ upsertDocument
 deletingDocument
 deletingIndex
 batchProcessing
+mapping
+dataTypes
