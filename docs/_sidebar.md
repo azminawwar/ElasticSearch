@@ -1,7 +1,7 @@
 * [Home](/)
 * [Creating Index](/createIndex)
 * [Add Documents In Index](/addDocumentsInIndex)
-* [Retrive Documents](/retriveDocuments)
+* [Retrieve Documents](/retriveDocuments)
 * [Updating Document](/updatingDocument)
 * [Upsert Document](/upsertDocument)
 * [Deleting Document](/deletingDocument)
