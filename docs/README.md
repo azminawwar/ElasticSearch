@@ -1,3 +1,3 @@
 # ElasticSearch
 
-This is a Beginners Guide for elastic search
+This is a Beginners Guide for Elastic Search
